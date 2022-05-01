@@ -13,7 +13,7 @@ Nuts Space Shooter is a 2D, horizontally scrolling shooter, where you play as on
 | Languages       | `English`, `Polish`                                                                                                                                                                                                                                                                                  |
 | Inputs          | `Keyboard`, `Mouse`, `Xbox controller`                                                                                                                                                                                                                                                               |
 | Accessibility   | `Subtitles`, `Configurable controls`                                                                                                                                                                                                                                                                 |
-| Links           | [`Steam`](https://store.steampowered.com/app/1980990/Nuts_Space_Shooter/), [`itch.io`](https://itsnuts.itch.io/nuts-space-shooter), [`Google Play`](https://play.google.com/store/apps/details?id=com.itsnuts.spaceshooter2), [`YouTube`](https://www.youtube.com/channel/UCWgZaKqCx-Pbk4_4exvcADA/) |
+| Links           | [`Steam`](https://store.steampowered.com/app/1980990/Nuts_Space_Shooter/), [`itch.io`](https://itsnuts.itch.io/nuts-space-shooter), [`Google Play`](https://play.google.com/store/apps/details?id=com.itsnuts.spaceshooter2), [`YouTube`](https://www.youtube.com/channel/UCWgZaKqCx-Pbk4_4exvcADA/). [`Video`](https://www.youtube.com/embed/CbhTNevH6ec) |
 
 # Issue tracker
 
@@ -21,7 +21,17 @@ Welcome to the `Nuts Space Shooter` issue tracker. This place has been made as p
 
 # Assets
 
-![Screenshot 1](assets/142756.png | width=100) ![Screenshot 2](assets/142911.png | width=100) ![Screenshot 3](assets/143303.png | width=100)
-![Screenshot 4](assets/143331.png | width=100) ![Screenshot 5](assets/143339.png | width=100) ![Screenshot 6](assets/143419.png | width=100)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CbhTNevH6ec" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+  <table border="0">
+    <tr>
+      <td><img src="/assets/142756.png?raw=true" width="50%"/></td>
+      <td><img src="/assets/142911.png?raw=true" width="50%"/></td>
+      <td><img src="/assets/143303.png?raw=true" width="50%"/></td>
+    </tr>
+    <tr>
+      <td><img src="/assets/143331.png?raw=true" width="50%"/></td>
+      <td><img src="/assets/143339.png?raw=true" width="50%"/></td>
+      <td><img src="/assets/143419.png?raw=true" width="50%"/></td>
+    </tr>
+  </table>
+</center>
